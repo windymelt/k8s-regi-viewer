@@ -1,0 +1,7 @@
+config:
+  k8s-regi-viewer:dockerPassword:
+    secure: AAABALh1svb7mfVZB7P6c6KpyiWbuIbT61NwFdcYxWjtUHWSTwtzsH8v81qvriqQcJTn6w==
+  k8s-regi-viewer:dockerUrl:
+    secure: AAABABsEAAuhQXSIfUsDsVXD+FCv22Ozvk6UMNihojY38VvdduoO9oDtG03nOp0hktjD/RFlFh0a
+  k8s-regi-viewer:dockerUser:
+    secure: AAABACYHn9MbAhdlVpH7fBw+TxtyD0IEt7+p7w0dcf0BeQG1AaU5N503Fx9syyz6zedUZ4bC

@@ -1,0 +1,7 @@
+name: k8s-regi-viewer
+runtime: scala
+description: regi.k
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://github.com/VirtusLab/besom/tree/v0.3.1/templates/default
